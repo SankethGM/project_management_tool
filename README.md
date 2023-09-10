@@ -1,4 +1,4 @@
-# project_management_tool
+project_management_tool
 Project Management Tool in PHP is a platform from which employees and managers can use for collaboration and communication.
 
 Prerequisite:
